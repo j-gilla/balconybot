@@ -1,0 +1,14 @@
+{
+  "name": "Balcony Watch ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:j-gilla/balconybot-.git",
+    "type": "git"
+  },
+  "author": "gilbertjacke <gilbertjacke@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
